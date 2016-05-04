@@ -26,8 +26,6 @@ class Resolver
             )
                 return [new $class, $method];
         }
-
-        throw new \InvalidArgumentException('Unrecognized callable');
     }
 
     /**
