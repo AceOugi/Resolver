@@ -4,11 +4,6 @@ namespace AceOugi;
 
 class Resolver
 {
-    public static function callable() : callable
-    {
-        return __CLASS__.'::resolve';
-    }
-
     /**
      * Cast predisposed callable to callable
      * @param callable $callable
