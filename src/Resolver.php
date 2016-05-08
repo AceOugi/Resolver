@@ -6,7 +6,6 @@ class Resolver
 {
     /**
      * Cast predisposed callable to callable
-     *
      * @param callable $callable
      * @throws \InvalidArgumentException
      * @return callable
