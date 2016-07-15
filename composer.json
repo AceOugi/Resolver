@@ -8,6 +8,6 @@
         "phpunit/phpunit": "*"
     },
     "autoload": {
-        "classmap": ["src/Ace/RunnerResolver.php"]
+        "classmap": ["src/Ace/MiddlewareResolver.php"]
     }
 }
