@@ -2,7 +2,7 @@
 
 namespace Ace;
 
-class Resolver
+class RunnerResolver
 {
     /**
      * Cast predisposed callable to callable
