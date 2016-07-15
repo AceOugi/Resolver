@@ -1,5 +1,5 @@
 {
-    "name": "ace/runner-resolver",
+    "name": "ace/middleware-resolver",
     "type": "library",
     "require": {
         "php": "^7.0"
